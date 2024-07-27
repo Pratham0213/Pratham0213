@@ -39,6 +39,9 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/Pratham0213/Pratham0213/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
   <a href="https://open.spotify.com/user/3143r5qlsxlgwgmjv232pn62wtby">
