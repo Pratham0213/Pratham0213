@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Pratham Thakur">
+  <a href="https://open.spotify.com/user/3143r5qlsxlgwgmjv232pn62wtby">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Pratham%20Thakur&count=8&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
