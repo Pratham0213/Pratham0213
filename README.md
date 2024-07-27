@@ -1,11 +1,11 @@
 <h1 align="center" id="top">Hi 👋, I'm Pratham Thakur</h1>
 <h3 align="center">A Self-motivated and detail-oriented developer fresh out of college ,equipped with programming skills and a passion of problem solving . Eager to contribute to a challenging development and drive innovation. I am eager to absorb as much knowledge and wisdom as possible, and I am committed to actively seeking out opportunities to learn and develop within this dynamic work environment.</h3>
 
-- 🌱 I’m currently learning **ReactJs,DSA,Laravel,php,MERN**
+- 🌱 I’m currently learning **DSA,MERN,Laravel,php,**
 
 - 📝 I regularly write articles on [https://www.blogger.com](https://www.blogger.com)
 
-- 💬 Ask me about **ReactJs,NodeJs,DSA,C++**
+- 💬 Ask me about **Front-End,Back-End,DSA,C++**
 
 - 📫 How to reach me **prathamthakur1302@gmail.com**
 
