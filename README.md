@@ -118,8 +118,7 @@
     </a> &nbsp; &nbsp;
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="margin-right: 10px;"/>
-    </a> &nbsp; &nbsp;
-    <br>
+    </a> &nbsp; &nbsp; <br>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="margin-right: 10px;"/>
     </a> &nbsp; &nbsp;
@@ -148,14 +147,11 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Pratham0213&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pratham0213&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pratham0213&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-<img src="https://raw.githubusercontent.com/Pratham0213/Pratham0213/output/snake.svg" alt="Snake animation" />
-
 
 ###
 
