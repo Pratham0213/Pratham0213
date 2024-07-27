@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://www.blogger.com](https://www.blogger.com)
 
-- 💬 Ask me about **ReactJs,NodeJs,DSA,C++**
+- 💬 Ask me about ** MERN,ReactJs,NodeJs,DSA,C++,Laravel,php**
 
 - 📫 How to reach me **prathamthakur1302@gmail.com**
 
