@@ -40,4 +40,10 @@
 
 ###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/Pratham Thakur">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Pratham%20Thakur&count=8&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
 <a href="#top">Back to top</a>
