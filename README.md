@@ -120,8 +120,7 @@
     </a> &nbsp; &nbsp; 
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="margin-right: 10px;"/>
-    </a> &nbsp; 
-    <br>
+    </a> &nbsp; &nbsp; 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 10px;"/>
     </a> &nbsp; &nbsp;
