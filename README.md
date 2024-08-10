@@ -2,6 +2,8 @@
 <h3 align="center">A Self-motivated and detail-oriented developer fresh out of college ,equipped with programming skills and a passion of problem solving . Eager to contribute to a challenging development and drive innovation. I am eager to absorb as much knowledge and wisdom as possible, and I am committed to actively seeking out opportunities to learn and develop within this dynamic work environment.</h3>
 
 - 🌱 I’m currently learning **DSA,MERN,Laravel,php,**
+- 🔭 I’m currently working on [portfolio](https://github.com/Pratham0213/PORTFOLIO)
+- - 👯 I’m looking to collaborate on **mern stack projects**
 
 - 📝 I regularly write articles on [https://www.blogger.com](https://www.blogger.com)
 
@@ -12,6 +14,7 @@
 - ⚡ Fun fact **Reliability and Kindness in-built.**
 
 <h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
 <a href="https://twitter.com/prathamdarj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathamdarj" height="30" width="40" /></a> &nbsp;
 <a href="https://linkedin.com/in/pratham1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham1203" height="30" width="40" /></a> &nbsp;
@@ -23,7 +26,7 @@
 <a href="https://auth.geeksforgeeks.org/user/prathamthmkwr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathamthmkwr" height="30" width="40" /></a>&nbsp;
 
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3><p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin-right: 10px;"/>
