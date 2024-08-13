@@ -2,9 +2,9 @@
 <h3 align="center">A Self-motivated and detail-oriented developer fresh out of college ,equipped with programming skills and a passion of problem solving . Eager to contribute to a challenging development and drive innovation. I am eager to absorb as much knowledge and wisdom as possible, and I am committed to actively seeking out opportunities to learn and develop within this dynamic work environment.</h3>
 
 - 🌱 I’m currently learning **DSA,MERN,Laravel,php,**
-- 🔭 I’m currently working on [React](https://github.com/Pratham0213/React_Ecommerce)
+- 🔭 I’m currently working on [Ecommerce_with_React](https://github.com/Pratham0213/Ecommerce-React)
 -  Visit My [portfolio](https://pratham0213.github.io/PORTFOLIO/)
-- - 👯 I’m looking to collaborate on **mern stack projects**
+- 👯 I’m looking to collaborate on **mern stack projects**
 
 - 📝 I regularly write articles on [https://www.blogger.com](https://www.blogger.com)
 
