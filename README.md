@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **prathamthakur1302@gmail.com**
 
-- ⚡ Fun fact **Reliability and Kindness in-built.**
+- ⚡ Fun fact **Reliability ,adaptability and Kindness in-built.**
 
 <h3 align="left">Connect with me:</h3>
 <br>
