@@ -6,7 +6,7 @@
 -  Visit My [portfolio](https://pratham0213.github.io/PORTFOLIO/)
 - 👯 I’m looking to collaborate on **mern stack projects**
 
-- 📝 I regularly write articles on [https://www.blogger.com](https://www.blogger.com)
+- 📝 I regularly write articles on [https://www.blogger.com](https://www.blogger.com) about IPR
 
 - 💬 Ask me about **Front-End,Back-End,DSA,C++**
 
