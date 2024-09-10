@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **prathamthakur1302@gmail.com**
 
-- ⚡ Fun fact **Reliability , Adaptability and Kindness in-built.**
+- ⚡ Fun fact **Reliability, Adaptability, and Kindness built.**
 
 <h3 align="left">Connect with me:</h3>
 <br>
@@ -28,7 +28,7 @@
 
 </p>
 <br>
-<h3 align="left">Languages and Tools:</h3><p align="left">
+<h3 align="left">Languages and Tools: Improvement is possible in all these areas. </h3><p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin-right: 10px;"/>
   </a> &nbsp; &nbsp;
@@ -81,7 +81,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/>
   </a> &nbsp; &nbsp;
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" style="margin-right: 10px;"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" style="margin-right: 10px;"/>
   </a> &nbsp; &nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
