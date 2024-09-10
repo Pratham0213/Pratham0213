@@ -1,8 +1,8 @@
 <h1 align="center" id="top">Hi 👋, I'm Pratham Thakur</h1>
-<h3 align="center">A Self-motivated and detail-oriented developer fresh out of college ,equipped with programming skills and a passion of problem solving . Eager to contribute to a challenging development and drive innovation. I am eager to absorb as much knowledge and wisdom as possible, and I am committed to actively seeking out opportunities to learn and develop within this dynamic work environment.</h3>
+<h3 align="center">A Self-motivated and detail-oriented developer fresh out of college, equipped with programming skills and a passion for problem-solving. Eager to contribute to a challenging development and drive innovation. I am eager to absorb as much knowledge and wisdom as possible, and I am committed to actively seeking out opportunities to learn and develop within this dynamic work environment.</h3>
 
-- 🌱 I’m currently learning **DSA,MERN,Laravel,php,**
-- 🔭 I’m currently working on [Ecommerce_with_React](https://github.com/Pratham0213/Ecommerce-React)
+- 🌱 I’m currently learning **DSA, MERN, Laravel, PHP,**
+- 🔭 I’m currently working on [Ecommerce_with_React](https://github.com/Pratham0213/Ecommerce-React) and [BlockChain](https://github.com/Pratham0213/BlockChain-s)
 -  Visit My [portfolio](https://pratham0213.github.io/PORTFOLIO/)
 - 👯 I’m looking to collaborate on **mern stack projects**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **prathamthakur1302@gmail.com**
 
-- ⚡ Fun fact **Reliability ,adaptability and Kindness in-built.**
+- ⚡ Fun fact **Reliability , Adaptability and Kindness in-built.**
 
 <h3 align="left">Connect with me:</h3>
 <br>
