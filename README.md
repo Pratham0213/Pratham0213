@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA, MERN, Laravel, PHP,**
 - 🔭 I’m currently working on [Ecommerce_with_React](https://github.com/Pratham0213/Ecommerce-React) and [BlockChain](https://github.com/Pratham0213/BlockChain-s)
--  Visit My [portfolio](https://pratham0213.github.io/PORTFOLIO/)
+-  Visit My [portfolio](https://portfolio-sable-three-16.vercel.app/)
 - 👯 I’m looking to collaborate on **mern stack projects**
 
 - 📝 I regularly write articles on [https://www.blogger.com](https://www.blogger.com) about IPR
