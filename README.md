@@ -29,21 +29,22 @@
 </p>
 <br>
 <h3 align="left">Languages and Tools: Improvement is possible in all these areas. </h3><p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin-right: 10px;"/>
-  </a> &nbsp; &nbsp;
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" style="margin-right: 10px;"/>
-  </a> &nbsp; &nbsp;
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-right: 10px;"/>
-  </a> &nbsp; &nbsp;
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" style="margin-right: 10px;"/>
-  </a> &nbsp; &nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 10px;"/>
-  </a> &nbsp; &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer" class="framework-card active" style="--glow-color: #dd0031;">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin-right: 10px;"/>
+</a> &nbsp; &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer" class="framework-card active" style="--glow-color: #dd0031;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" style="margin-right: 10px;"/>
+</a> &nbsp; &nbsp;
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer" class="framework-card active" style="--glow-color: #ff9900;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-right: 10px;"/>
+</a> &nbsp; &nbsp;
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer" class="framework-card active" style="--glow-color: #f9dc3e;">
+  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" style="margin-right: 10px;"/>
+</a> &nbsp; &nbsp;
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer" class="framework-card active" style="--glow-color: #563d7c;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 10px;"/>
+</a> &nbsp; &nbsp;
+
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 10px;"/>
   </a> &nbsp; &nbsp;
