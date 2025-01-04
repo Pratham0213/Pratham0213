@@ -82,7 +82,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/>
   </a> &nbsp; &nbsp;
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" style="margin-right: 10px;"/>
+   <img src="https://www.bing.com/ck/a?!&&p=3fc9929ed1b0e26828cdfe0c384a68e7b88bb1351e5d9fa65f08433feae96175JmltdHM9MTczNTk0ODgwMA&ptn=3&ver=2&hsh=4&fclid=19669b3a-548f-62ad-20d3-8f13558963d4&u=a1L2ltYWdlcy9zZWFyY2g_cT1sYXJhdmVsJTIwaWNvbiZGT1JNPUlRRlJCQSZpZD04QkFGNkU5MzIyRDc3QTNGRjQ5NjBEMTI5RDRBQ0JBOUQ5NjE2MUM2&ntb=1" alt="laravel" width="40" height="40" style="margin-right: 10px;"/>
   </a> &nbsp; &nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
