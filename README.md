@@ -28,7 +28,7 @@
 
 </p>
 <br>
-<h3 align="left">Languages and Tools: Improvement is possible in all these areas. </h3><p align="left">
+<h3 align="left">Languages and Tools: Intrested areas. </h3><p align="left">
 <a href="https://angular.io" target="_blank" rel="noreferrer" class="framework-card active" style="--glow-color: #dd0031;">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin-right: 10px;"/>
 </a> &nbsp; &nbsp;
